@@ -1,7 +1,7 @@
 ---
 title: A post with a cover image
 description: Markdown is intended to be as easy-to-read and easy-to-write as is
-  feasible. Readability, however, is emphasized above all else. A
+  feasible. Readability, however, is emphasized... above all else. A
   Markdown-formatted document should be publishable as-is, as plain text,
   without looking like it's been marked up with tags or formatting instructions.
 cover_image: /uploads/0e8b46fd8c8b4e3a51207c5421db5994.png
