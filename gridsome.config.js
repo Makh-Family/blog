@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: "Blog",
-  siteUrl: "https://tschool.netlify.app",
+  siteUrl: "https://tschool.uz",
   siteDescription:
     "A simple blog.",
 
