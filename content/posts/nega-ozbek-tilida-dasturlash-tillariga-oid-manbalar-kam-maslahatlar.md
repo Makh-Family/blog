@@ -19,7 +19,7 @@ Bulardan **birinchi** sababi ko'p dasturlash atamalari o'zbek tiliga tarjima qil
 
 Bu so'zlar shunchalik "chiroyli" tarjima qilinadiki, kulmasdan qarab bo'lmaydi 😅.
 
-![LOL](/uploads/41am3y.jpg)
+![LMAO](/uploads/41am3y.jpg)
 
 Shu dasturlash atamalarini  o'zbek tilidagi tarjimasini subh.org ning [dasturlash atamalari](https://github.com/subh-tashkiloti/dasturlash-atamalari) loyihasida ko'rish mumkin. Bu loyihaga o'z hissangizni qo'shishingiz mumkin.🙂
 
