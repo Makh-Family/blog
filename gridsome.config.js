@@ -48,7 +48,7 @@ module.exports = {
         exclude: ['/admin*'],
         config: {
           '/tag/*': {
-            changefreq: 'weekly',
+            changefreq: 'daily',
             priority: 0.5
           },
           '/*': {
@@ -56,7 +56,7 @@ module.exports = {
             priority: 0.7
           },
           '/': {
-            changefreq: 'monthly',
+            changefreq: 'daily',
             priority: 1
           }
         }
