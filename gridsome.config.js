@@ -56,7 +56,7 @@ module.exports = {
             priority: 0.7
           },
           '/': {
-            changefreq: 'daily',
+            changefreq: 'always',
             priority: 1
           }
         }
