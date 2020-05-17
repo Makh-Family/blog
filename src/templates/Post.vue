@@ -53,7 +53,7 @@ export default {
         { name: "twitter:description", content: this.$page.post.description },
         { name: "twitter:title", content: 'TechnoSchool - ' + this.$page.post.title },
         { name: "twitter:site", content: "@TechnoSchool" },
-        { name: "twitter:image", content: this.$page.post.cover_image },
+        { name: "twitter:image", content: this.$page.post.cover_image.path },
         { name: "twitter:creator", content: "@TechnoSchool" }
       ]
     }
