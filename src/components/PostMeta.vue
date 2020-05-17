@@ -1,6 +1,6 @@
 <template>
    <div class="post-meta">
-      Posted {{ post.date }}.
+      {{ post.date }} da yaratilgan.
       <template v-if="post.timeToRead">
         <strong>{{ post.timeToRead }} minutli o'qish.</strong>
       </template>
