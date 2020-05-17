@@ -44,7 +44,7 @@ export default {
   },
   metaInfo () {
     return {
-      title: this.$page.tag.title +' tegli postlar'
+      title: `"${this.$page.tag.title}" tegli postlar`
     }
   }
 }
