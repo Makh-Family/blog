@@ -42,10 +42,9 @@ export default {
     Author,
     PostCard
   },
-  metaInfo: {
-    title: 'TechnoSchool - Postlar'
-    // title: this.$page.tag.title +' tegli postlar'
-  }
+  metaInfo: () => ({
+    title: this.$page.tag.title +' tegli postlar'
+  })
 }
 </script>
 
