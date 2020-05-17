@@ -17,7 +17,7 @@ Bulardan **birinchi** sababi ko'p dasturlash atamalari o'zbek tiliga tarjima qil
 * **Node** - tugun
 * **Framework** - sinch 😐
 
-  Bu so'zlar shunchalik "chiroyli" tarjima qilinadiki, kulmasdan qarab bo'lmaydi 😅
+Bu so'zlar shunchalik "chiroyli" tarjima qilinadiki, kulmasdan qarab bo'lmaydi 😅
 
 ![LOL](/uploads/41am3y.jpg)
 
