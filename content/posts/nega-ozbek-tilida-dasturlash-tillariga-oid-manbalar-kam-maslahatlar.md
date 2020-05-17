@@ -1,5 +1,5 @@
 ---
-title: Nega o'zbek tilida dasturlash tillariga oid manbalar kam? (Maslahatlar)
+title: Nega o'zbek tilida dasturlash tillariga oid manbalar kam?
 description: O'zbekistonda IT sohasi rivojlanmagan deb bo'lmaydi, lekin nega
   kerakli ma'lumotlarni topish qiyin? Shu mavzuni ko'rib chiqamiz.
 cover_image: /uploads/istock-960268208.jpg
@@ -8,7 +8,7 @@ tags:
   - Dasturlash
   - Hamjamiyat
 ---
-Albatta, dasturlash tillariga oid bloglar/ma'lumotlar bor. Masalan: [texnoman.uz](https://www.texnoman.uz/), [subh.org](https://subh.org). Lekin sizga aniq texnologiya bo'yicha ma'lumotlar kerak bo'lsa, topish qiyin bo'ladi. Nega **o'zbek tilida** dasturlashga oid ma'lumotlar manbayi, bloglar juda kam? 
+Albatta, dasturlash tillariga oid bloglar/ma'lumotlar bor. Masalan [texnoman.uz](https://www.texnoman.uz/), [subh.org](https://subh.org). Lekin sizga aniq texnologiya bo'yicha ma'lumotlar kerak bo'lsa, topish qiyin bo'ladi. Nega **o'zbek tilida** dasturlashga oid ma'lumotlar manbayi, bloglar juda kam? 
 
 Bulardan **birinchi** sababi ko'p dasturlash atamalari o'zbek tiliga tarjima qilinmaganidandir. Deyarli barcha o'zbek dasturchilar atamalarni ingliz tilida ishlatadi. Rostan ham agar o'ylab ko'rsak:
 
@@ -17,9 +17,7 @@ Bulardan **birinchi** sababi ko'p dasturlash atamalari o'zbek tiliga tarjima qil
 * **Node** - tugun
 * **Framework** - sinch 😐
 
-Bu so'zlar shunchalik "chiroyli" tarjima qilinadiki, kulmasdan qarab bo'lmaydi 😅.
-
-![LMAO](/uploads/41am3y.jpg)
+![LOL](/uploads/41am3y.jpg "Bu so'zlar shunchalik \"chiroyli\" tarjima qilinadiki, kulmasdan qarab bo'lmaydi 😅.")
 
 Shu dasturlash atamalarini  o'zbek tilidagi tarjimasini subh.org ning [dasturlash atamalari](https://github.com/subh-tashkiloti/dasturlash-atamalari) loyihasida ko'rish mumkin. Bu loyihaga o'z hissangizni qo'shishingiz mumkin.🙂
 
