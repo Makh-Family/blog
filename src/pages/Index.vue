@@ -48,7 +48,7 @@ export default {
     PostCard
   },
   metaInfo: {
-    title: "Home"
+    title: "Asosiy sahifa"
   }
 };
 </script>
