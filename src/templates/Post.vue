@@ -40,9 +40,6 @@ export default {
     PostMeta,
     PostTags
   },
-  mounted() {
-    console.log(this.$page.post.cover_image)
-  },
   metaInfo () {
     return {
       title: this.$page.post.title,
@@ -56,7 +53,7 @@ export default {
         { name: "twitter:description", content: this.$page.post.description },
         { name: "twitter:title", content: 'TechnoSchool - ' + this.$page.post.title },
         { name: "twitter:site", content: "@TechnoSchool" },
-        { name: "twitter:image", content: this.$page.post.cover_image.path },
+        { name: "twitter:image", content: this.$page.post.cover_image.src },
         { name: "twitter:creator", content: "@TechnoSchool" }
       ]
     }
