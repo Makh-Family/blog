@@ -2,7 +2,7 @@
 title: Nega o'zbek tilida dasturlash tillariga oid manbalar kam?
 description: O'zbekistonda IT sohasi rivojlanmagan deb bo'lmaydi, lekin nega
   kerakli ma'lumotlarni topish qiyin? Shu mavzuni ko'rib chiqamiz.
-cover_image: /uploads/istock-960268208.jpg
+cover_image: /uploads/img_5620.jpg
 date: 2020-05-13T14:36:21.630Z
 tags:
   - Dasturlash
