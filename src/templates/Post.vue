@@ -40,6 +40,9 @@ export default {
     PostMeta,
     PostTags
   },
+  mounted() {
+    console.log(this.$page.post.cover_image)
+  }
   metaInfo () {
     return {
       title: this.$page.post.title,
