@@ -6,7 +6,7 @@
 
     <p
       class="author__intro"
-    >A simple blog.</p>
+    >{{ $static.metaData.siteDescription }}</p>
   </div>
 </template>
 
