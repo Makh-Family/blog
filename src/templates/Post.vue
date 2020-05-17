@@ -42,7 +42,7 @@ export default {
   },
   mounted() {
     console.log(this.$page.post.cover_image)
-  }
+  },
   metaInfo () {
     return {
       title: this.$page.post.title,
