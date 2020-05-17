@@ -5,10 +5,10 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: "TechnoSchool 🇺🇿",
+  siteName: "TechnoSchool 🔮",
   siteUrl: "https://tschool.uz",
   siteDescription:
-    "A simple blog.",
+    "Dasturlash tillari va sinchlari haqidagi blog 🧾",
 
   plugins: [
     {
